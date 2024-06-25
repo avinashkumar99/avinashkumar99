@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avinashkumar99
-- 👀 I’m interested in full stack web developer role.
-- 🌱 I’m currently learning django framework.
+- 👀 I’m interested in full stack web developer role (MERN).
+- 🌱 I’m currently learning reactjs framework.
 - 💞️ I’m looking to collaborate on web desinging project.
 - 📫 How to reach me ...
 - Through linkedin -- https://www.linkedin.com/in/avinash-kumar-8a0468212/
